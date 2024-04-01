@@ -1,6 +1,6 @@
-Welcome to your new dbt project!
+Welcome to our project dbt Mr FERSZTEROWSKI !
 
-This Git repository constitutes the rendering of TP1 for student Nicolas Hollier-Larousse and Ridah LARBI-DAOUADJI in class 2D at ESME
+This Git repository constitutes the rendering of TP1 for student Nicolas Hollier-Larousse and Ridah LARBI-DAOUADJI in class 2D at ESME for the Hands-On Data science tools class.
 
 Hoping that this rendering satisfies you
 
