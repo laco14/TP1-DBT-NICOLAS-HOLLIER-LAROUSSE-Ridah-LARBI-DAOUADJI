@@ -1,5 +1,12 @@
 Welcome to your new dbt project!
 
+This Git repository constitutes the rendering of TP1 for student Nicolas Hollier-Larousse and Ridah LARBI-DAOUADJI in class 2D at ESME
+
+Hoping that this rendering satisfies you
+
+Best regards.
+
+
 ### Using the starter project
 
 Try running the following commands:
